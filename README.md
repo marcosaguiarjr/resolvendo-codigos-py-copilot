@@ -1,5 +1,9 @@
 # Resolvendo Códigos em Python com o Github Copilot
 
+## Alterações
+Criei via github os códigos dos 6 desafios proposto pela DIO no projeto. Códigos disponiveis no projeto.
+
+##
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
 
 ### Atenção ⚠️ 
